@@ -3,7 +3,7 @@ import c2 from '../assets/images/c2.jpg';
 import c3 from '../assets/images/c3.jpg';
 import c4 from '../assets/images/c4.jpg';  
 import c5 from '../assets/images/c5.jpg'; 
-import c6 from '../assets/images/c6.jpg';
+
 
 
 function Popular() {
